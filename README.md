@@ -1,8 +1,8 @@
 # App Weather2 is built with Vue.js and SASS
 
-<img align="left" alt="screen" width="800" src="./public/screen.png" />
+<img align="left" alt="page" width="800" src="./public/page.png" />
 
-# vue-weather-2
+# vue-weather2
 
 This template should help get you started developing with Vue 3 in Vite.
 
